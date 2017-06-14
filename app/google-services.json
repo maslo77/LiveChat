@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "183822654483",
+    "firebase_url": "https://livechat-f8bd3.firebaseio.com",
+    "project_id": "livechat-f8bd3",
+    "storage_bucket": "livechat-f8bd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183822654483:android:e93b5a3f1f857354",
+        "android_client_info": {
+          "package_name": "com.example.michal.livechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183822654483-kl51jdihdlgenfefkgkj3bb3d1ivogsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuAaD0WBO2gFP5WWIPzMps4jeqxjMdZYo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
